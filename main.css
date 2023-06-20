@@ -82,7 +82,7 @@ pre, code {
     top: 100%;
     left: 0;
     list-style-type: none;
-    z-index: 9;
+    z-index: 99;
 }
 
 #menu li:hover {
